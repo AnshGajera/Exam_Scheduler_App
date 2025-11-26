@@ -1,5 +1,3 @@
-# exam_timetable_app
-
 # 📚 Exam Timetable App
 
 A Flutter application to manage and organize your exam schedules efficiently. Keep track of your upcoming exams with course codes, dates, times, venues, and attach relevant documents.
